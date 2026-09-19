@@ -395,6 +395,8 @@ Excel → Python → PostgreSQL → Power BI
 
 The final dashboard provides an interactive view of customer conversion, funnel drop-offs, revenue performance, channel behavior, campaign performance, device usage, and customer segments.
 
+---
+
 ## 👨‍💻 Author
 
 **Darshan Patel**
