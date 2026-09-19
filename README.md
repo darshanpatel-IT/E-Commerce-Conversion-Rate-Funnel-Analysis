@@ -395,12 +395,12 @@ Excel → Python → PostgreSQL → Power BI
 
 The final dashboard provides an interactive view of customer conversion, funnel drop-offs, revenue performance, channel behavior, campaign performance, device usage, and customer segments.
 
-👨‍💻 Author
+## 👨‍💻 Author
 
-Darshan Patel
+**Darshan Patel**
 
-Data Analyst | SQL | Python | Power BI | Excel | Tableau
+**Data Analyst | SQL | Python | Power BI | Excel | Tableau**
 
-GitHub: github.com/darshanpatel-IT
+🔗 [GitHub](https://github.com/darshanpatel-IT)
 
-LinkedIn: www.linkedin.com/in/darshan-patel-a75124288
+🔗 [LinkedIn](https://www.linkedin.com/in/darshan-patel-a75124288/)
